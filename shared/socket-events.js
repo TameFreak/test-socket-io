@@ -1,0 +1,5 @@
+module.exports = {
+    SEND_MESSAGE: 'SEND_MESSAGE',
+    ADD_NEW_MESSAGE: 'ADD_NEW_MESSAGE',
+    GET_MESSAGES: 'GET_MESSAGES',
+};
